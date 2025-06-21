@@ -1,12 +1,8 @@
 # Algorithm Visualizer
 
 A React-based web application for visualizing various algorithms including pathfinding and sorting algorithms.
+Access link: https://intuitive-algos-dd7hrf6jd-rupaks-projects-9f7c653d.vercel.app/
 
-## Author
-
-**Rupak Ghanghas**
-- LinkedIn: [https://www.linkedin.com/in/rupak-ghanghas-23652b244/](https://www.linkedin.com/in/rupak-ghanghas-23652b244/)
-- GitHub: [https://github.com/rupakghanghas](https://github.com/rupakghanghas)
 
 ## Getting Started with Create React App
 
