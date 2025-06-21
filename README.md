@@ -1,6 +1,8 @@
 # Algorithm Visualizer
 
 A React-based web application for visualizing various algorithms including pathfinding and sorting algorithms.
+
+
 Access link: https://intuitive-algos-dd7hrf6jd-rupaks-projects-9f7c653d.vercel.app/
 
 
