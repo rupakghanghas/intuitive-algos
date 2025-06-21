@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Algorithm Visualizer
+
+A React-based web application for visualizing various algorithms including pathfinding and sorting algorithms.
+
+## Author
+
+**Rupak Ghanghas**
+- LinkedIn: [https://www.linkedin.com/in/rupak-ghanghas-23652b244/](https://www.linkedin.com/in/rupak-ghanghas-23652b244/)
+- GitHub: [https://github.com/rupakghanghas](https://github.com/rupakghanghas)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

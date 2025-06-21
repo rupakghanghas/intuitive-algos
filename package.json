@@ -2,6 +2,12 @@
   "name": "algorithm-visualizer",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Rupak Ghanghas",
+    "linkedin": "https://www.linkedin.com/in/rupak-ghanghas-23652b244/",
+    "github": "https://github.com/rupakghanghas"
+  },
+  "description": "A React-based web application for visualizing various algorithms including pathfinding and sorting algorithms.",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -35,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21"
   }
 }
